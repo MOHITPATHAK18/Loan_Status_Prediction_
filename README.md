@@ -73,15 +73,12 @@ DatasetAccuracyTraining Data~79–82%Test Data~83% (varies by run)
 
 
 🚀 Getting Started
-1. Clone the Repository
-bashgit clone : https://github.com/MOHITPATHAK18/Loan_Status_Prediction_
-cd loan-status-prediction-ml
-2. Install Dependencies
+1. Install Dependencies
 bashpip install numpy pandas seaborn scikit-learn jupyter
-3. Add the Dataset
+2. Add the Dataset
 Download the dataset from Analytics Vidhya and place it in the project root as:
 train_u6lujuX_CVtuZ9i.csv
-4. Run the Notebook
+3. Run the Notebook
 bashjupyter notebook Loan_Status_Prediction_using_ML.ipynb
 
 📁 Project Structure

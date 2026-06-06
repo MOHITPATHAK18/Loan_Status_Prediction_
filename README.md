@@ -74,7 +74,7 @@ DatasetAccuracyTraining Data~79–82%Test Data~83% (varies by run)
 
 🚀 Getting Started
 1. Clone the Repository
-bashgit clone : (https://github.com/MOHITPATHAK18/Loan_Status_Prediction_)
+bashgit clone : https://github.com/MOHITPATHAK18/Loan_Status_Prediction_
 cd loan-status-prediction-ml
 2. Install Dependencies
 bashpip install numpy pandas seaborn scikit-learn jupyter
